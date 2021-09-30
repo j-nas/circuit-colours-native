@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "circuit-colours-native",
+    "slug": "circuit-colours-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "circuit-colours-native"
+}
